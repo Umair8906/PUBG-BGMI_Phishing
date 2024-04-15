@@ -67,7 +67,7 @@ umair ©\e[34m
           \e[m"
 echo -e " \e[36mWebsite : \e[0m\e[92mw \e[0m\n"
   
-echo -e " \e[31mGitHub : \e[0m\e[93mhttps://github.com/ \e[0m\n"
+echo -e " \e[31mGitHub : \e[0m\e[93mhttps://github.com/Umair8906 \e[0m\n"
 
 echo -e " \e[97mTelegram : \e[0m\e[34m \e[0m\n"
 }
