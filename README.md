@@ -47,3 +47,5 @@ bash Linux-Setup
 PUBG-BGMI_Phishing
 ```
 
+join my telegram channel
+https://t.me/umair_hunter
